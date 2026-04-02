@@ -35,7 +35,7 @@
   'BC_N   ->  $INPUTDATA_ROOT/atm/cam/chem/emis/cmip6_emissions_version20230630/emissions_cmip6_noresm2_ScenarioMIP_IAMC-REMIND-MAGPIE-ssp585-1-1_BC_N_anthrosurfALL_surface_2014-2301_0.9x1.25_version20230630.nc',
   'OM_NI  ->  $INPUTDATA_ROOT/atm/cam/chem/emis/cmip6_emissions_version20230630/emissions_cmip6_noresm2_ScenarioMIP_IAMC-REMIND-MAGPIE-ssp585-1-1_OM_NI_anthrosurfALL_surface_2014-2301_0.9x1.25_version20230630.nc',
   'SO2    ->  $INPUTDATA_ROOT/atm/cam/chem/emis/cmip6_emissions_version20230630/emissions_cmip6_noresm2_ScenarioMIP_IAMC-REMIND-MAGPIE-ssp585-1-1_SO2_anthrosurfALL_surface_2014-2301_0.9x1.25_version20230630.nc',
-  'SO4_PR ->  $INPUTDATA_ROOT/atm/cam/chem/emis/cmip6_emissions_version20230630/emissions_cmip6_noresm2_ScenarioMIP_IAMC-REMIND-MAGPIE-ssp585-1-1_SO4_PR_anthrosurfALL_surface_2014-2301_0.9x1.25_version20230630.nc'
+  'SO4_PR ->  $INPUTDATA_ROOT/atm/cam/chem/emis/cmip6_emissions_version20230630/emissions_cmip6_noresm2_ScenarioMIP_IAMC-REMIND-MAGPIE-ssp585-1-1_SO4_PR_anthrosurfALL_surface_2014-2301_0.9x1.25_version20230630.nc',
   'BENZENE -> $INPUTDATA_ROOT/atm/cam/chem/emis/cmip6_emissions_version20230630/emissions_cmip6_noresm2_ScenarioMIP_IAMC-REMIND-MAGPIE-ssp585-1-1_BENZENE_anthrosurfgasALL_surface_2014-2301_0.9x1.25_version20230630.nc',
   'BENZENE -> $INPUTDATA_ROOT/atm/cam/chem/emis/cmip6_emissions_version20230630/emissions_cmip6_noresm2_ScenarioMIP_IAMC-REMIND-MAGPIE-ssp585-1-1_BENZENE_bbsurfALL_surface_2014-2301_0.9x1.25_version20230630.nc',
   'BIGALK -> $INPUTDATA_ROOT/atm/cam/chem/emis/cmip6_emissions_version20230630/emissions_cmip6_noresm2_ScenarioMIP_IAMC-REMIND-MAGPIE-ssp585-1-1_BIGALK_anthrosurfgasALL_surface_2014-2301_0.9x1.25_version20230630.nc',
