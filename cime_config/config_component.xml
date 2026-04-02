@@ -445,6 +445,19 @@
       <value compset="1850_CAM60%NORESM%NORBC"> opom_cycle_year=1850 </value>
       <value compset="1850_CAM60%NORESM%NORBC"> dms_source_type='CYCLICAL' </value>
       <value compset="1850_CAM60%NORESM%NORBC"> opom_source_type='CYCLICAL' </value>
+      <!-- missing: <value compset="2000_CAM60%NORESM%NORBC" grid="a%0.9x1.5" > ocean_filename='dms-hamocc-dow-taylor_chlor_a-lanaclim_NHIST_f09_tn14_20190710_1995-2005_cycle_version20260209.nc -->
+      <value compset="2000_CAM60%NORESM%NORBC" grid="a%1.9x2.5" > ocean_filename='dms-hamocc-dow-taylor_chlor_a-lanaclim_NHIST_f19_tn14_20190710_1995-2005_cycle_version20260209.nc
+' </value>
+      <value compset="2000_CAM60%NORESM%NORBC"> dms_cycle_year=2000 </value>
+      <value compset="2000_CAM60%NORESM%NORBC"> opom_cycle_year=2000 </value>
+      <value compset="2000_CAM60%NORESM%NORBC"> dms_source_type='CYCLICAL' </value>
+      <value compset="2000_CAM60%NORESM%NORBC"> opom_source_type='CYCLICAL' </value>
+      <!-- missing: <value compset="2100SSP585_CAM60%NORESM%NORBC" grid="a%0.9x1.5" > ocean_filename='dms-hamocc-dow-taylor_chlor_a-lanaclim_NSSP585frc2_f09_tn14_20191014_2090-2100_cycle_version20260209.nc' </value> -->
+      <value compset="2100SSP585_CAM60%NORESM%NORBC" grid="a%1.9x2.5" > ocean_filename='dms-hamocc-dow-taylor_chlor_a-lanaclim_NSSP585frc2_f19_tn14_20191014_2090-2100_cycle_version20260209.nc' </value>
+      <value compset="2100SSP585_CAM60%NORESM%NORBC"> dms_cycle_year=2100 </value>
+      <value compset="2100SSP585_CAM60%NORESM%NORBC"> opom_cycle_year=2100 </value>
+      <value compset="2100SSP585_CAM60%NORESM%NORBC"> dms_source_type='CYCLICAL' </value>
+      <value compset="2100SSP585_CAM60%NORESM%NORBC"> opom_source_type='CYCLICAL' </value>
 
       <!-- NorESM derived preindustrial -->
       <value compset="CAM60%NORESM%NORPIBC" grid="a%0.9x1.25"> ocean_filename='dms-hamocc-dow-taylor_chlor_a-lanaclim_N1850frc2_f09_tn14_20191012_1351-1380_cycle_version20200106.nc' </value>
