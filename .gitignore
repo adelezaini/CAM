@@ -22,3 +22,6 @@ buildcppc
 
 # To avoid *.pyc files
 cime_config/__pycache__
+
+#iOS
+.DS_Store
