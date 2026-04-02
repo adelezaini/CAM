@@ -263,4 +263,16 @@
 
 <rad_climate>'A:Q:H2O','N:O2:O2','A:CO2:CO2','A:O3:O3','A:N2O:N2O','A:CH4:CH4','N:CFC11STAR:CFC11','A:CFC12:CFC12'</rad_climate>
 
+<fincl1>
+       'SAD_ICE','SAD_LNAT','SAD_SULFC','SAD_TROP','SAD_AERO',
+       'REFF_AERO',
+       'RAD_ICE','RAD_LNAT','RAD_SULFC',
+       'H2SO4M_C',
+       'HNO3_GAS','HNO3_STS','HNO3_NAT',
+       'HCL_TOTAL','HCL_GAS','HCL_STS',
+       'LNO_PROD', 'LNO_COL_PROD',
+       'TROP_P', 'TROP_T', 'TROP_Z',
+       'RHW'
+</fincl1>
+
 </namelist_defaults>
