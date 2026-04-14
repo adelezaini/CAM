@@ -262,7 +262,7 @@
 <!-- sim_year used for CLM datasets and SSTs forcings -->
 <sim_year>1850</sim_year>
 
-<rad_climate>'A:Q:H2O','N:O2:O2','N:CO2:CO2','N:ozone:O3','N:N2O:N2O','N:CH4:CH4','N:CFC11:CFC11','N:CFC12:CFC12'</rad_climate>
+<rad_climate>'A:Q:H2O','N:O2:O2','A:CO2:CO2','A:O3:O3','A:N2O:N2O','A:CH4:CH4','N:CFC11STAR:CFC11','A:CFC12:CFC12'</rad_climate>
 
 <fincl1>
        'SAD_ICE','SAD_LNAT','SAD_SULFC','SAD_TROP','SAD_AERO',
